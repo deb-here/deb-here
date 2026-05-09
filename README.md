@@ -85,8 +85,8 @@ I believe in learning by doing: taking structured courses, completing hands-on l
 ## Connect with me
 
 <p align="left">
-  <a href="https://github.com/debmalyachanda1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-deb-here-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/deb-here" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-deb--here-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
   <a href="mailto:debmalyachanda1@gmail.com">
